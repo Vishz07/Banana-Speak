@@ -1,0 +1,53 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color:whitesmoke;
+}
+
+h1{
+  text-align: center;
+  border: 3rem;
+  border-color: black;
+  
+}
+
+.txtbox{
+  text-align: center;
+  
+}
+.typebox{
+  width: 50rem;
+  height: 10rem;
+}
+
+#btn-translate{
+  display: flex;
+  margin: auto;
+  font-size: 5rem;
+  margin-top: 2rem;
+ 
+}
+
+.output{
+  text-align: center;
+  padding-top: 2rem;
+}
+
+#output{
+  text-align: center;
+  color: black;
+  border: 3rem;
+  border-width: 4px;
+  font-weight: bolder;
+  height: 5rem;
+  margin:2rem 10rem;
+  border-color: black;
+  border-style:groove
+  
+  
+}
+.rnb{
+background-image: linear-gradient(to left,violet,blue,green,yellow,orange,red);
+-webkit-background-clip: text;
+color:transparent
+}
