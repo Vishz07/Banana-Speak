@@ -8,11 +8,16 @@ h1{
   text-align: center;
   border: 3rem;
   border-color: black;
-  
+  background-color: aquamarine;
+  padding:2rem 0;
+  margin: auto;
+  font-weight: bolder;
+  font-family:Georgia, 'Times New Roman', Times, serif
 }
 
 .txtbox{
   text-align: center;
+  padding-top: 2rem;
   
 }
 .typebox{
